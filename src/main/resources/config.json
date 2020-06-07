@@ -1,0 +1,5 @@
+{
+	"appid": "YOUR_OPENWEATHERMAP_APPID",
+	"latitude" : YOUR_LOCATION_LATITUDE,
+	"longtitude" : YOUR_LOCATION_LONGTITUDE
+}

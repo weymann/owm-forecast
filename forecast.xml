@@ -1,0 +1,6519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="14.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.Hashtable">
+  <void method="put">
+   <string>08-06-2020 14:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>42.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>42.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>18.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>26.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>58.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 08:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>88.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>32.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 19:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>71.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>71.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>71.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>82.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>82.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>90.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>80.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 02:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>11.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>6.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 13:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>33.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>33.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>33.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>31.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>31.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>43.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>81.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 18:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>49.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>49.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>49.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>43.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>41.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 07:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>7.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>7.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>7.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 12:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>61.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>61.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 01:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>8.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>8.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>8.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>16.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>9.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 21:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 06:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>50.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>50.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>50.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 00:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>47.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>47.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>47.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>41.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>41.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>25.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 20:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>60.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>60.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>60.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>74.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>74.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>97.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>81.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>83.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 19:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>22.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>47.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>98.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 07:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>85.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>26.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 18:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>81.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>81.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>81.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>89.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>89.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>98.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>93.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 17:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>56.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>56.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>56.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>41.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>37.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 06:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 20:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>20.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>40.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>87.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 05:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>67.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>67.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>67.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 13:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>33.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>33.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>10.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>17.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>53.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 01:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>13.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>5.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 17:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>82.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>82.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>82.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>98.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>98.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>98.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>90.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 12:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>25.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>25.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>25.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>26.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>26.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>30.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 16:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>52.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>52.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>53.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>46.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>37.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 00:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>11.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>11.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>11.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>20.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>11.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 13:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>97.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 18:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>23.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>58.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 18:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>97.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 23:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>34.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>34.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>34.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>29.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>29.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>18.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 12:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>78.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>17.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>17.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>2.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>3.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>42.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 06:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>81.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 06:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>26.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 00:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>13.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 00:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>1.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 11:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>22.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>22.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>22.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>12.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>12.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>16.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 05:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 09:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>8.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>8.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>8.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>5.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>5.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>4.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 04:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 23:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>13.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>13.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>13.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>1.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>27.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>15.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 12:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>94.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 12:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>98.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 17:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>27.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>75.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 17:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>96.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 22:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>13.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>13.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>13.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>12.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>12.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 11:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>84.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>84.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>84.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>3.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>3.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>26.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 05:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>75.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 05:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>32.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 16:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>76.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>76.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>76.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>97.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>97.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>99.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>96.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 10:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>8.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>8.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>8.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>12.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>12.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>6.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 15:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>63.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>63.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>63.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>54.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 04:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 03:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>99.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 16:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>37.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>81.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 16:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>95.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 04:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>64.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 04:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>34.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 15:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>53.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>53.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>53.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>95.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>95.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>96.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>90.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 09:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>99.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>99.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>99.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 14:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>59.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>59.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>60.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 03:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 23:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 23:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 08:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>33.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>33.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>33.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>67.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>67.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>67.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 02:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>64.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>64.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>64.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>56.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>56.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>42.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 22:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>1.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>41.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>22.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 11:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>92.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 11:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>98.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 21:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>16.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>16.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>16.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>6.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>6.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 10:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>98.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>98.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>98.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 09:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 09:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>93.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 19:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>42.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>42.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>42.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>35.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 19:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>35.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 08:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>23.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>23.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>23.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 08:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 22:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 22:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 07:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>40.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>40.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>40.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>80.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>80.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 07:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>80.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 21:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>2.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>76.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 21:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>43.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 10:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>89.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 10:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>97.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 15:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>86.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>63.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>67.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 15:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>100.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 20:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>36.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>36.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>36.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>31.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 20:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>31.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>09-06-2020 03:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>46.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>09-06-2020 03:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>22.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 14:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>43.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>43.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>43.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>37.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>37.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>51.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>82.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 14:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>81.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>08-06-2020 02:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>7.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>7.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>7.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>0.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 13:26:52</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>14.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>08-06-2020 02:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>07-06-2020 14:52:50</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>7.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>06-06-2020 13:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>61.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>61.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>06-06-2020 13:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>61.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>07-06-2020 01:00:00</string>
+   <object class="java.util.Vector">
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:25:35</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>58.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 12:26:00</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>58.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 13:27:40</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>58.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 15:28:15</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>48.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 16:59:49</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>48.0</float>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="java.util.Hashtable">
+      <void method="put">
+       <string>forecast_time</string>
+       <string>07-06-2020 01:00:00</string>
+      </void>
+      <void method="put">
+       <string>query_time</string>
+       <string>06-06-2020 23:52:42</string>
+      </void>
+      <void method="put">
+       <string>clouds</string>
+       <float>33.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
